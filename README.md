@@ -1,6 +1,6 @@
 # Community Tool & Equipment Library — Requirements Engineering & UML Use-Case Modelling
 
-**Course:** PES University — Dept. of CSE — Lab 1: Requirements Engineering & UML Use-Case Modelling
+**Course:** PES University — Dept. of CSE(AI-ML) — Lab 1: Requirements Engineering & UML Use-Case Modelling
 **Problem Statement:** #52 | Media, Events & Community — Community Tool & Equipment Library
 
 ## Overview
